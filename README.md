@@ -1,8 +1,10 @@
 # Nodebook
 
 This image is a Jupyter notebook build with NodeJS (via Babel) and
-CoffeeScript kernels added via https://github.com/n-riesco/jp-babel
-and https://github.com/n-riesco/jp-coffeescript respectively.
+CoffeeScript kernels added via
+[jp-babel](https://github.com/n-riesco/jp-babel) and
+[jp-coffeescript](https://github.com/n-riesco/jp-coffeescript)
+respectively.
 
 ## Usage
 
